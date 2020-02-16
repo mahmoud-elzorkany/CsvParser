@@ -1,7 +1,7 @@
 # CsvParser
 
 -A Csv parser developed with C# and the .NetCore Framework mainly designed for parsing and filtering 
-large files with lots of records using strems.
+large files with lots of records using streams.
 
 -The project contains a console application and a Gateway application(For HTTP Api Requests). 
 
