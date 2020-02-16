@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CsvParser.Logic.Contracts/1.0.0": {
+        "dependencies": {
+          "CsvParser.Models": "1.0.0"
+        },
+        "runtime": {
+          "CsvParser.Logic.Contracts.dll": {}
+        }
+      },
+      "CsvParser.Models/1.0.0": {
+        "runtime": {
+          "CsvParser.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvParser.Logic.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvParser.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

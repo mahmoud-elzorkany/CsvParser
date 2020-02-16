@@ -1,0 +1,8 @@
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\bin\Debug\netcoreapp3.0\CsvParser.Contracts.deps.json
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\bin\Debug\netcoreapp3.0\CsvParser.Contracts.dll
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\bin\Debug\netcoreapp3.0\CsvParser.Contracts.pdb
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\obj\Debug\netcoreapp3.0\CsvParser.Contracts.csprojAssemblyReference.cache
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\obj\Debug\netcoreapp3.0\CsvParser.Contracts.AssemblyInfoInputs.cache
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\obj\Debug\netcoreapp3.0\CsvParser.Contracts.AssemblyInfo.cs
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\obj\Debug\netcoreapp3.0\CsvParser.Contracts.dll
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Contracts\obj\Debug\netcoreapp3.0\CsvParser.Contracts.pdb

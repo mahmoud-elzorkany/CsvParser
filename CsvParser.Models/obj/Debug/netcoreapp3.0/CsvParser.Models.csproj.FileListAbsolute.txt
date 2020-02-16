@@ -1,0 +1,14 @@
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.deps.json
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.dll
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.pdb
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.AssemblyInfoInputs.cache
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.AssemblyInfo.cs
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.dll
+C:\Users\mzork\source\repos\BezzUpChallenge\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.pdb
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.deps.json
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.dll
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\bin\Debug\netcoreapp3.0\CsvParser.Models.pdb
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.AssemblyInfoInputs.cache
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.AssemblyInfo.cs
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.dll
+C:\Users\mzork\source\repos\CsvParser\CsvParser.Models\obj\Debug\netcoreapp3.0\CsvParser.Models.pdb

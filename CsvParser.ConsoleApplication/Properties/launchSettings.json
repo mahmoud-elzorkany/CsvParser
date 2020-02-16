@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvParser.ConsoleApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "json"
+    }
+  }
+}
